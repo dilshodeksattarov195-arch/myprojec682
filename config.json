@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "searchpender",
+        "uuid": 1430836,
+        "checksum": "apv0d"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
